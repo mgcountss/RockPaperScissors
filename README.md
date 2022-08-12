@@ -2,6 +2,7 @@
 Fun project
 
 I wanted to learn C# so I'm making a RPS game with it.
+I added all source code so people won't think that it's a virus.
 
 Plans:
 Add themes.
