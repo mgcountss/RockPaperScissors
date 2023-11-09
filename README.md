@@ -12,3 +12,5 @@ Add mutiplayer (maybe).
 Add AI bot (maybe).
 
 Please report any bugs in the issues tab.
+
+<img src='./image.png'>
